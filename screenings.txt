@@ -1,0 +1,9 @@
+Jujutsu Kaisen 0,12/23/23,Hall 1,11:00,13:00
+Jujutsu Kaisen 0,12/23/23,Hall 1,14:00,16:00
+Jujutsu Kaisen 0,12/24/23,Hall 2,11:00,13:00
+A Silent Voice,12/23/23,Hall 3,10:00,12:00
+A Silent Voice,12/23/23,Hall 3,13:00,15:00
+A Silent Voice,12/24/23,Hall 4,10:00,12:00
+Real Steel,12/24/23,Hall 1,10:00,12:00
+Real Steel,12/24/23,Hall 1,13:00,15:00
+Real Steel,12/25/23,Hall 4,10:00,12:00

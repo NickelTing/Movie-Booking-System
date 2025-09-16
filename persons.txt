@@ -1,0 +1,4 @@
+customer,Nicholas Ting,021526533,211 Wainoni Road,nickyting222@gmail.com,nickyting,nicky777
+customer,Emily Ting,021526999,222 Wainoni Road,emilyting@email.com,emilyting,emily1110
+staff,Jenny Wong,jennywong@email.com,jennywong,jenny524
+admin,Alex Ting,alexting@email.com,alexting,alex0614
